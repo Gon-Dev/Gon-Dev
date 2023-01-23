@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gonzalo Ruiz</h1>
-<h3 align="center">Amateur front end developer from Mar del Plata, Argentina</h3>
+<h1 align="center">Sup! I'm Gonzalo Ruiz 👋</h1>
+<h3 align="center">Amateur Front End developer from Mar del Plata, Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gon-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gon-dev" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/gon-dev?style=social"></p>
 
 - 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-gon-dev.vercel.app/](https://portfolio-gon-dev.vercel.app/)
-
 - 📫 How to reach me **gon.ruiz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
