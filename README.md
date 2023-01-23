@@ -1,15 +1,15 @@
 <h1 align="center">Sup! I'm Gonzalo Ruiz 👋</h1>
 <h3 align="center">Amateur Front End developer from Mar del Plata, Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gon-dev" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/gon-dev?style=social"></p>
-
 - 🌱 I’m currently learning **Typescript**
 - 👨‍💻 All of my projects are available at [https://portfolio-gon-dev.vercel.app/](https://portfolio-gon-dev.vercel.app/)
 - 📫 How to reach me **gon.ruiz.dev@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gon-dev" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/gon-dev?style=social"></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/goni_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goni_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/narigoni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goni_dev" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://linkedin.com/in/gonzalo-ariel-ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-ariel-ruiz" height="30" width="40" /></a>
