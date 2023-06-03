@@ -1,15 +1,15 @@
 <h1 align="center">Hey! I'm Gonzalo Ruiz 👋</h1>
 <h3 align="center">Amateur FrontEnd developer from Córdoba, Argentina</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 Currently leargning **Next.js** and **Backend basics**
+- 🌱 Currently sharping **Typescript**
 - 👨‍💻 All of my projects are available at [https://gonzaloruiz.ar/](https://gonzaloruiz.ar/)
-- 📫 How to reach me **gon.ruiz.dev@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gon-dev" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/gon-dev?style=social"></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://twitter.com/narigoni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goni_dev" height="30" width="40" /></a>
+<a href="gon.ruiz.dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gonzalo-ariel-ruiz" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://linkedin.com/in/gonzalo-ariel-ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-ariel-ruiz" height="30" width="40" /></a>
