@@ -9,7 +9,7 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="gon.ruiz.dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gonzalo-ariel-ruiz" height="30" width="40" /></a>
+<a href="mailto:gon.ruiz.dev@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gonzalo-ariel-ruiz" height="30" width="30" /></a>
 </p>
 <p align="left">
 <a href="https://linkedin.com/in/gonzalo-ariel-ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-ariel-ruiz" height="30" width="40" /></a>
